@@ -131,7 +131,7 @@ footer{
 .texto-codificado{
 
     background: #FEF5E4;
-    background-image: url(recursos/gatomatrix.png);
+    background-image: url(./recursos/gatomatrix.png);
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: 0 100px;
