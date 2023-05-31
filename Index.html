@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+
+<html lang="es">
+
+  <head>
+
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width">
+        <title>Encriptador de texto</title>
+        <link rel="stylesheet" href="style.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@700&display=swap" rel="stylesheet">
+
+  </head>
+
+  <body>
+  
+      <header>
+
+        <img src="recursos/logo-alura.png" alt="Logo de Alura" class="logo">
+
+      </header>
+
+
+     <main>
+
+      <section>
+                  <h2 class="nombre">&#10022; ·Hecho por Lorena Sánchez - 2023· &#10022;</h2>
+      </section>
+
+
+        <section>
+          <textarea cols="70" rows="10" id="texto" class="ingresar-texto" placeholder="Ingrese el texto aquí"></textarea>
+        </section>
+
+
+        <section class="cuadro02">
+          <textarea cols="80" rows="10" id="texto02" class="texto-codificado" placeholder="Ningún mensaje fue encontrado"></textarea>
+          <div>
+            <button class="copy" onclick="copiado()">Copiar</button>
+          </div>
+          </section>
+
+     </main>
+
+
+      <footer>
+        <section>
+          <h6 class="info"> &#9888; Solo letras minúsculas, sin acentos o caracteres especiales...</h6>
+        </section>
+
+        <section>
+          <div class="botones">
+            <button class="encriptadorUno" onclick="botonEncriptador()">Encriptar</button>
+            <button class="DesencriptadorDos" onclick="botonDesencriptador()">Desencriptar</button>
+          </div>
+
+        </section>
+    
+      </footer>
+
+        <script src="script.js"></script>
+
+    </body>
+
+    </html>
