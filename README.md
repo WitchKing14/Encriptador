@@ -1,12 +1,12 @@
-## ENCRIPTADOR Y DESENCRIPTADOR DE TEXTO :tw-1f4dd:
+## ENCRIPTADOR Y DESENCRIPTADOR DE TEXTO :pencil:
 
 [![Encriptador.gif](https://i.postimg.cc/qR8zc9kv/Encriptador.gif)](https://postimg.cc/YGCrMDG5)
 
 ----
 
-###--Las reglas para su codificación--
+### --Las reglas para su codificación--
 
-#####Las "llaves" de encriptación que utilizaremos son las siguientes:
+##### Las "llaves" de encriptación que utilizaremos son las siguientes:
 
 	La letra "e" es convertida para "enter"
 	La letra "i" es convertida para "imes"
@@ -14,7 +14,7 @@
 	La letra "o" es convertida para "ober"
 	La letra "u" es convertida para "ufat"
 
-#####Requisitos:
+##### Requisitos:
 
 1. Debe funcionar solo con letras minúsculas.
 
@@ -29,7 +29,7 @@
 
 5. El resultado debe ser mostrado en la pantalla.
 
-#####Extras:
+##### Extras:
 
 Un botón que copie el texto encriptado/desencriptado para la sección de transferencia, o sea que tenga la misma funcionalidad del ctrl+C o de la opción "copiar" del menú de las aplicaciones.
 
@@ -44,4 +44,4 @@ Un botón que copie el texto encriptado/desencriptado para la sección de transf
 
 ----
 
-###Fin :tw-1f33b:
+### Fin :sunflower:
